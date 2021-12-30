@@ -29,4 +29,4 @@
 
 # Acesse aqui 👇
 
-https://replit.com/@rebcost/turtle-race#turtleRace.py
+https://replit.com/@rebcost/snake-game#main.py
